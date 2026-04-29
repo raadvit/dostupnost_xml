@@ -2,8 +2,8 @@
 <SHOP>
     <SHOPITEM>
         <PRODUCT_NAME>Doplatek</PRODUCT_NAME>
-        <PRICE>1</PRICE>
-        <VAT>21</VAT>
+        <PRICE>2</PRICE>
+        <VAT>0</VAT>
         <QUANTITY>8000</QUANTITY>
         <EAN>LEK001</EAN>
         <ITEM_ID>0001</ITEM_ID>
@@ -11,8 +11,8 @@
 
     <SHOPITEM>
         <PRODUCT_NAME>Ověření farmaceutem</PRODUCT_NAME>
-        <PRICE>1</PRICE>
-        <VAT>21</VAT>
+        <PRICE>2</PRICE>
+        <VAT>0</VAT>
         <QUANTITY>8000</QUANTITY>
         <EAN>LEK002</EAN>
         <ITEM_ID>0002</ITEM_ID>
