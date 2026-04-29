@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+    <SHOPITEM>
+        <PRODUCT_NAME>Doplatek</PRODUCT_NAME>
+        <PRICE>1</PRICE>
+        <VAT>21</VAT>
+        <QUANTITY>8000</QUANTITY>
+        <EAN>00</EAN>
+        <ITEM_ID>LEK001</ITEM_ID>
+    </SHOPITEM>
+
+    <SHOPITEM>
+        <PRODUCT_NAME>Ověření farmaceutem</PRODUCT_NAME>
+        <PRICE>1</PRICE>
+        <VAT>21</VAT>
+        <QUANTITY>8000</QUANTITY>
+        <EAN>00</EAN>
+        <ITEM_ID>LEK002</ITEM_ID>
+    </SHOPITEM>
+</SHOP>
